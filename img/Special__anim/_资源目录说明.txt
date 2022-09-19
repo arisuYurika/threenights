@@ -1,0 +1,12 @@
+	
+	资源目录：
+		 \img\Special__anim
+	
+	来自插件：
+		Drill_AnimationCircle	动画 - 多层动画魔法圈
+		Drill_AnimationParticle	动画 - 多层动画粒子
+		Drill_AnimationSurround	动画 - 多层动画环绕球
+
+	相关文档：
+		12.动画 > 关于魔法效果与并行动画.docx
+		17.主菜单 > 多层组合装饰（个体装饰）.docx

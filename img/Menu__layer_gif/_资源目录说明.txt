@@ -1,0 +1,10 @@
+	
+	资源目录：
+		\img\Menu__layer_gif
+	
+	来自插件：
+		Drill_MenuGif	主菜单 - 多层菜单GIF
+		Drill_MenuTiledGif	主菜单 - 多层菜单平铺GIF
+		
+	相关文档：
+		17.主菜单 > 多层组合背景,粒子,魔法圈,gif,视频.docx
