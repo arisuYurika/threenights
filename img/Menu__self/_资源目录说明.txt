@@ -1,0 +1,22 @@
+	
+	资源目录：
+		 \img\Menu__self
+	
+	来自插件：
+		Drill_SceneSelfplateA	面板 - 全自定义信息面板A
+		Drill_SceneSelfplateB	面板 - 全自定义信息面板B
+		Drill_SceneSelfplateC	面板 - 全自定义信息面板C
+		Drill_SceneSelfplateD	面板 - 全自定义信息面板D
+		Drill_SceneSelfplateE	面板 - 全自定义信息面板E
+		Drill_SceneSelfplateF	面板 - 全自定义信息面板F
+		Drill_SceneSelfplateG	面板 - 全自定义信息面板G
+		Drill_SceneSelfplateH	面板 - 全自定义信息面板H
+		Drill_SceneSelfplateI 	面板 - 全自定义信息面板I
+		Drill_SceneSelfplateJ	面板 - 全自定义信息面板J
+		Drill_SceneSelfplateK	面板 - 全自定义信息面板K
+		Drill_SceneSelfplateL	面板 - 全自定义信息面板L
+		Drill_SceneSelfplateM	面板 - 全自定义信息面板M
+		Drill_SceneSelfplateN	面板 - 全自定义信息面板N
+	
+	相关文档：
+		18.画廊 > 关于全自定义信息面板.docx

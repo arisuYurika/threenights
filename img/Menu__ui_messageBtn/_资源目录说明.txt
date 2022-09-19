@@ -1,0 +1,9 @@
+	
+	资源目录：
+		 \img\Menu__ui_messageBtn
+	
+	来自插件：
+		Drill_DialogChoiceButton	对话框 - 对话选项按钮组
+	
+	相关文档：
+		15.对话框 > 关于对话选项按钮组.docx

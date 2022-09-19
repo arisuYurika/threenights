@@ -1,0 +1,14 @@
+	
+	资源目录：
+		\img\Map__reflection
+	
+	来自插件：
+		Drill_LayerReverseReflection		行走图 - 图块倒影镜像
+		Drill_LayerSynchronizedReflection	行走图 - 图块同步镜像
+	
+	相关文档：
+		7.行走图 > 关于镜像与镜面.docx
+	
+	资源说明：
+		这里的资源将设置成整张大地图的1:1镜面。
+		白色 表示能反射的镜面，黑色或透明色 表示不能反射的地面。

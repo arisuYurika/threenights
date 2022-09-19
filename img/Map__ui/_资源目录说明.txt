@@ -1,0 +1,16 @@
+	
+	资源目录：
+		 \img\Map__ui
+	
+	来自插件：
+		MOG_GoldHud		地图UI - 金钱固定框
+		MOG_TreasureHud		地图UI - 道具浮动框
+		MOG_MapNameHud	地图UI - 地图浮动框
+		MOG_Compass		地图UI - 指南针
+		MOG_TimeSystem_Hud	地图UI - 时间系统固定框
+		Drill_GaugeSimpleHud	地图UI - 简单生命框
+	
+	相关文档：
+		无
+	
+	说明：	mog插件以后会被推翻。

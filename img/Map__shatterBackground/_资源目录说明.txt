@@ -1,0 +1,9 @@
+	
+	资源目录：
+		\img\Map__shatterBackground
+	
+	来自插件：
+		Drill_LayerShatterEffect	地图 - 方块粉碎效果
+	
+	相关文档：
+		1.系统 > 方块粉碎大家族.docx

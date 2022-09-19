@@ -1,0 +1,11 @@
+	
+	资源目录：
+		 \img\Special__visualTimer
+	
+	来自插件：
+		MOG_VisualTimer	UI - 时间计时器
+	
+	相关文档：
+		无
+	
+	说明：	mog插件以后会被推翻。

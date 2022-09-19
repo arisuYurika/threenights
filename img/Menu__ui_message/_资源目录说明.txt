@@ -1,0 +1,12 @@
+	
+	资源目录：
+		 \img\Menu__ui_message
+	
+	来自插件：
+		Drill_DialogSkin		对话框 - 对话框皮肤
+		Drill_DialogArrow		对话框 - 对话框小箭头
+		Drill_DialogSkinDecoration	对话框 - 对话框装饰图
+		Drill_DialogSkinBackground	对话框 - 对话框背景
+	
+	相关文档：
+		无

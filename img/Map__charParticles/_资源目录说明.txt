@@ -1,0 +1,11 @@
+	
+	资源目录：
+		 \img\Map__charParticles
+	
+	来自插件：
+		MOG_CharParticles		行走图 - 粒子效果
+	
+	相关文档：
+		无
+	
+	说明：	mog插件以后会被推翻。

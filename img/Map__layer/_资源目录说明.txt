@@ -1,0 +1,10 @@
+	
+	资源目录：
+		 \img\Map__layer
+	
+	来自插件：
+		Drill_LayerGround	地图 - 多层地图背景
+		Drill_LayerCircle	地图 - 多层地图魔法圈
+	
+	相关文档：
+		17.主菜单 > 多层组合背景,粒子,魔法圈,gif,视频.docx

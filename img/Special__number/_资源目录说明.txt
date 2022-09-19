@@ -1,0 +1,10 @@
+	
+	资源目录：
+		\img\Special__number
+	
+	来自插件：
+		Drill_CoreOfGaugeNumber	系统 - 参数数字核心
+
+	相关文档：
+		1.系统 > 关于参数数字.docx
+		（资源配置很多，保持耐心）

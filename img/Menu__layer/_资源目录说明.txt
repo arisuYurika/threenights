@@ -1,0 +1,11 @@
+	
+	资源目录：
+		 \img\Menu__layer
+	
+	来自插件：
+		Drill_MenuBackground	主菜单 - 多层菜单背景
+		Drill_MenuCircle		主菜单 - 多层菜单魔法圈
+		Drill_MenuParticle		主菜单 - 多层菜单粒子
+		
+	相关文档：
+		17.主菜单 > 多层组合背景,粒子,魔法圈,gif,视频.docx

@@ -1,0 +1,15 @@
+	
+	资源目录：
+		\img\Special__variable
+	
+	来自插件：
+		Drill_GaugeForVariable	UI - 高级变量固定框
+
+	相关文档：
+		13.UI > 关于高级变量固定框.docx
+	
+	资源说明：
+		这里配置的都是变量外框的资源。
+		具体的 参数条、参数数字 的图片资源，见： 
+		  Special__meter 参数条资源文件夹
+		  Special__number 参数数字资源文件夹

@@ -1,0 +1,14 @@
+	
+	资源目录：
+		 \img\Special__bufferTimeBar
+	
+	来自插件：
+		Drill_GaugeOfBufferTimeBar	UI - 缓冲时间条
+
+	相关文档：
+		13.UI > 关于缓冲时间条与数字.docx
+	
+	资源说明：
+		这里配置的都是缓冲条外框的资源。
+		具体的 参数条 的图片资源，见： 
+		  Special__meter 参数条资源文件夹

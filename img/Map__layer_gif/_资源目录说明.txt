@@ -1,0 +1,10 @@
+	
+	资源目录：
+		\img\Map__layer_gif
+	
+	来自插件：
+		Drill_LayerGif	地图 - 多层地图GIF
+		Drill_LayerTiledGif	地图 - 多层地图平铺GIF
+	
+	相关文档：
+		17.主菜单 > 多层组合背景,粒子,魔法圈,gif,视频.docx

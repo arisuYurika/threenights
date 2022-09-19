@@ -1,0 +1,14 @@
+	
+	资源目录：
+		 \img\Special__bufferTimeNum
+	
+	来自插件：
+		Drill_GaugeOfBufferTimeNum 	UI - 缓冲时间数字
+
+	相关文档：
+		13.UI > 关于缓冲时间条与数字.docx
+	
+	资源说明：
+		这里配置的都是缓冲条外框的资源。
+		具体的 参数数字 的图片资源，见： 
+		  Special__number 参数数字资源文件夹

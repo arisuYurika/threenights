@@ -1,0 +1,12 @@
+	
+	资源目录：
+		 \img\Menu__ui
+	
+	来自插件：
+		Drill_MenuCursor		主菜单 - 多样式菜单指针
+		Drill_MenuCursorBorder	主菜单 - 多样式菜单选项边框
+		Drill_MenuScrollBar 	主菜单 - 多样式菜单滚动条
+		AddBarsToOptionsScene	控件 - 选项界面的可拉动滑竿
+	
+	相关文档：
+		17.主菜单 > 关于指针与边框.docx

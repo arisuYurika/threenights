@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"捏脸云","characterIndex":0,"characterName":"$云像素人","classId":1,"equips":[0,0,0,3,0],"faceIndex":1,"faceName":"捏脸云","traits":[],"initialLevel":1,"maxLevel":99,"name":"克劳德·斯特莱夫","nickname":"角色A","note":"<多帧行走图:动画帧间隔:1+(7-speed)*3>","profile":"乡下来的青年"},
+{"id":2,"battlerName":"捏脸云","characterIndex":0,"characterName":"$云像素人","classId":1,"equips":[0,0,0,3,0],"faceIndex":1,"faceName":"捏脸云","traits":[],"initialLevel":1,"maxLevel":99,"name":"克劳德·斯特莱夫","nickname":"角色A","note":"<多帧行走图:动画帧间隔:1+(7-speed)*3>\nFootstep Sprite: 脚印-鸡爪(mog)","profile":"乡下来的青年"},
+{"id":3,"battlerName":"捏脸萨","characterIndex":0,"characterName":"!$萨菲罗斯","classId":2,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"萨菲罗斯","nickname":"角色B","note":"","profile":"公寓的主人"}
+]

@@ -1,0 +1,10 @@
+	
+	资源目录：
+		 \img\Special__meter
+	
+	来自插件：
+		Drill_CoreOfGaugeMeter	系统 - 参数条核心
+
+	相关文档：
+		13.UI > 关于参数条.docx
+		（资源配置很多，保持耐心）
